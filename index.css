@@ -8,13 +8,17 @@ body{
     height: 100%;
 }
 
+.imgFundo{
+    opacity: 100%;
+}
+
 .container{
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 50rem;
     margin: 150px;
-    background-color: #000000ac;
+    background-color: #000000c3;
     padding: 20px 15px 0 20px;
     margin-top: 2rem;
     border-radius: 45px;
@@ -129,9 +133,9 @@ body{
 }
 
 select {
-    background-color: #013c21b7;
-    background-image: linear-gradient(#02401da2 
-    0%, #02401da2 0%, #02401da2 100%);
+    background-color: #104602d5;
+    background-image: linear-gradient(#104602d5 
+    0%, #104602d5 0%, #104602d5 100%);
     color: rgb(255, 255, 255);
     padding: 8px;
     width: 135px;
